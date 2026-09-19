@@ -286,12 +286,6 @@ jupyter notebook
 
 - GitHub: https://github.com/srimanreddy06
 
----
 
-# 📜 License
 
-This project is licensed under the MIT License.
 
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
